@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkSAP", "ArkSAP.csproj", "{8398E75C-6C1A-4222-9A36-8BE81C19D7F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArkSAP", "ArkSAP.csproj", "{D5E52888-D6D4-4002-BCEA-FB54569E4027}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8398E75C-6C1A-4222-9A36-8BE81C19D7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8398E75C-6C1A-4222-9A36-8BE81C19D7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8398E75C-6C1A-4222-9A36-8BE81C19D7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8398E75C-6C1A-4222-9A36-8BE81C19D7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E52888-D6D4-4002-BCEA-FB54569E4027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E52888-D6D4-4002-BCEA-FB54569E4027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E52888-D6D4-4002-BCEA-FB54569E4027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E52888-D6D4-4002-BCEA-FB54569E4027}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
